@@ -88,9 +88,7 @@ with a passion for building websites, specializing in front-end development. Als
 <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
 <br>SQLite
 </td>
-<td align="center" width="96">
-<br>
-</td>
+
 </tr>
 </table>
 
