@@ -33,8 +33,6 @@ Undergraduate Informatics Engineering student focused on building clean, perform
 
 ### GitHub Stats
 
-[![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayhanAurelia&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/RayhanAurelia)
-
 ![](https://komarev.com/ghpvc/?username=RayhanAurelia&style=flat-square&color=blue)
 
 
