@@ -35,5 +35,3 @@ Undergraduate Informatics Engineering student focused on building clean, perform
 
 ![](https://komarev.com/ghpvc/?username=RayhanAurelia&style=flat-square&color=blue)
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RayhanAurelia&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
